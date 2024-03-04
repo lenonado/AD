@@ -1,0 +1,35 @@
+EROX,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+EROXXX,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+PRIVATE TV,http://146.59.54.163/356/playlist.m3u8
+
+DORCEL HD,http://146.59.54.163/345/index.m3u8
+
+VIVIDRED,http://146.59.54.163/361/playlist.m3u8
+
+HUSTLER HDhttp://146.59.54.163/348/index.m3u8
+
+BRAZZERS HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+PENTHOUSE,http://146.59.54.163/353/index.m3u8
+
+BABES,http://146.59.54.163/354/index.m3u8
+
+LALA,http://146.59.54.163/350/playlist.m3u8
+
+PENTHOUSEREALITY,http://146.59.54.163/352/playlist.m3u8
+
+REDLIGHT,http://146.59.54.163/358/playlist.m3u8
+
+EXXXOTICA,http://146.59.54.163/362/playlist.m3u8
+
+XXL,http://146.59.54.163/363/playlist.m3u8
+
+ADULT1,http://146.59.54.163/347/playlist.m3u8
+
+ADULT2,http://146.59.54.163/349/playlist.m3u8
+
+ADULT3,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6243/index.m3u8
+
+PLAYBOY,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
