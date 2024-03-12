@@ -8,7 +8,7 @@ DORCEL HD,http://146.59.54.163/345/index.m3u8
 
 VIVIDRED,http://146.59.54.163/361/playlist.m3u8
 
-HUSTLER HDhttp://146.59.54.163/348/index.m3u8
+HUSTLER HD,http://146.59.54.163/348/index.m3u8
 
 BRAZZERS HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
