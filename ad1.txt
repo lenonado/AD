@@ -26,6 +26,8 @@ EXXXOTICA,http://146.59.54.163/362/playlist.m3u8
 
 XXL,http://146.59.54.163/363/playlist.m3u8
 
+HUSTLER,http://146.59.54.163/359/index.m3u8
+
 ADULT1,http://146.59.54.163/347/playlist.m3u8
 
 ADULT2,http://146.59.54.163/349/playlist.m3u8
